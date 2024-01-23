@@ -15,7 +15,7 @@ pnpm install
 ## Adding Code
 Add your desired code in the src/ directory.
 
-Building the Library
+## Building the Library
 Using npm
 ```
 npm run build
