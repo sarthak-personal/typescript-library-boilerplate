@@ -24,5 +24,3 @@ Using pnpm
 ```
 npx nx build
 ```
-Contributing
-We welcome contributions! If you'd like to contribute to this project, please follow our contribution guidelines.
